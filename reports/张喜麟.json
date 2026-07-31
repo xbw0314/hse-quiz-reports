@@ -1,0 +1,24 @@
+{
+  "user": "张喜麟",
+  "totalDone": 3,
+  "totalCorrect": 2,
+  "accuracy": "67%",
+  "lastActive": "2026-07-31T02:37:24.877Z",
+  "records": {
+    "single_43": {
+      "done": true,
+      "ok": true,
+      "ts": 1785463940951
+    },
+    "single_88": {
+      "done": true,
+      "ok": true,
+      "ts": 1785465437197
+    },
+    "single_77": {
+      "done": true,
+      "ok": false,
+      "ts": 1785463948671
+    }
+  }
+}
