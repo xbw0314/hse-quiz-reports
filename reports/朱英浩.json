@@ -1,9 +1,9 @@
 {
   "user": "朱英浩",
   "totalDone": 247,
-  "totalCorrect": 244,
-  "accuracy": "99%",
-  "lastActive": "2026-08-02T02:48:47.777Z",
+  "totalCorrect": 241,
+  "accuracy": "98%",
+  "lastActive": "2026-08-02T02:57:19.137Z",
   "records": {
     "single_0": {
       "done": true,
@@ -18,7 +18,7 @@
     "single_2": {
       "done": true,
       "ok": true,
-      "ts": 1785466062615
+      "ts": 1785639090027
     },
     "single_3": {
       "done": true,
@@ -28,7 +28,7 @@
     "single_4": {
       "done": true,
       "ok": true,
-      "ts": 1785638522711
+      "ts": 1785639169279
     },
     "single_5": {
       "done": true,
@@ -38,7 +38,7 @@
     "single_6": {
       "done": true,
       "ok": true,
-      "ts": 1785638497357
+      "ts": 1785639122676
     },
     "single_7": {
       "done": true,
@@ -48,12 +48,12 @@
     "single_8": {
       "done": true,
       "ok": true,
-      "ts": 1785496769461
+      "ts": 1785639039123
     },
     "single_9": {
       "done": true,
       "ok": true,
-      "ts": 1785638590614
+      "ts": 1785639146922
     },
     "single_10": {
       "done": true,
@@ -68,7 +68,7 @@
     "single_12": {
       "done": true,
       "ok": true,
-      "ts": 1785465883675
+      "ts": 1785639091858
     },
     "single_13": {
       "done": true,
@@ -78,7 +78,7 @@
     "single_14": {
       "done": true,
       "ok": true,
-      "ts": 1785296166075
+      "ts": 1785639100093
     },
     "single_15": {
       "done": true,
@@ -93,7 +93,7 @@
     "single_17": {
       "done": true,
       "ok": true,
-      "ts": 1785296192108
+      "ts": 1785639138115
     },
     "single_18": {
       "done": true,
@@ -108,32 +108,32 @@
     "single_20": {
       "done": true,
       "ok": true,
-      "ts": 1785496858661
+      "ts": 1785639020132
     },
     "single_21": {
       "done": true,
       "ok": true,
-      "ts": 1785496837653
+      "ts": 1785639016701
     },
     "single_22": {
       "done": true,
       "ok": true,
-      "ts": 1785638331440
+      "ts": 1785639058415
     },
     "single_23": {
       "done": true,
       "ok": true,
-      "ts": 1785496939060
+      "ts": 1785639068177
     },
     "single_24": {
       "done": true,
       "ok": true,
-      "ts": 1785296219376
+      "ts": 1785639120582
     },
     "single_25": {
       "done": true,
       "ok": true,
-      "ts": 1785466095581
+      "ts": 1785639124662
     },
     "single_26": {
       "done": true,
@@ -158,7 +158,7 @@
     "single_30": {
       "done": true,
       "ok": true,
-      "ts": 1785496907914
+      "ts": 1785639208415
     },
     "single_31": {
       "done": true,
@@ -183,7 +183,7 @@
     "single_35": {
       "done": true,
       "ok": true,
-      "ts": 1785638538311
+      "ts": 1785639158854
     },
     "single_36": {
       "done": true,
@@ -193,17 +193,17 @@
     "single_37": {
       "done": true,
       "ok": true,
-      "ts": 1785296306287
+      "ts": 1785639109989
     },
     "single_38": {
       "done": true,
       "ok": true,
-      "ts": 1785638520616
+      "ts": 1785639043695
     },
     "single_39": {
       "done": true,
       "ok": true,
-      "ts": 1785638488666
+      "ts": 1785639183596
     },
     "single_40": {
       "done": true,
@@ -218,7 +218,7 @@
     "single_42": {
       "done": true,
       "ok": true,
-      "ts": 1785465905774
+      "ts": 1785639175222
     },
     "single_43": {
       "done": true,
@@ -228,17 +228,17 @@
     "single_44": {
       "done": true,
       "ok": true,
-      "ts": 1785638517629
+      "ts": 1785639018461
     },
     "single_45": {
       "done": true,
-      "ok": false,
-      "ts": 1785638417476
+      "ok": true,
+      "ts": 1785639094949
     },
     "single_46": {
       "done": true,
       "ok": true,
-      "ts": 1785465945555
+      "ts": 1785639065247
     },
     "single_47": {
       "done": true,
@@ -248,7 +248,7 @@
     "single_48": {
       "done": true,
       "ok": true,
-      "ts": 1785296380121
+      "ts": 1785639210818
     },
     "single_49": {
       "done": true,
@@ -258,7 +258,7 @@
     "single_50": {
       "done": true,
       "ok": true,
-      "ts": 1785496866473
+      "ts": 1785639195273
     },
     "single_51": {
       "done": true,
@@ -273,7 +273,7 @@
     "single_53": {
       "done": true,
       "ok": true,
-      "ts": 1785638512176
+      "ts": 1785639127380
     },
     "single_54": {
       "done": true,
@@ -283,7 +283,7 @@
     "single_55": {
       "done": true,
       "ok": true,
-      "ts": 1785296428453
+      "ts": 1785639060805
     },
     "single_56": {
       "done": true,
@@ -293,7 +293,7 @@
     "single_57": {
       "done": true,
       "ok": true,
-      "ts": 1785465910263
+      "ts": 1785639181868
     },
     "single_58": {
       "done": true,
@@ -343,12 +343,12 @@
     "single_67": {
       "done": true,
       "ok": true,
-      "ts": 1785296546525
+      "ts": 1785639191971
     },
     "single_68": {
       "done": true,
       "ok": true,
-      "ts": 1785638529882
+      "ts": 1785639116609
     },
     "single_69": {
       "done": true,
@@ -358,27 +358,27 @@
     "single_70": {
       "done": true,
       "ok": true,
-      "ts": 1785496936339
+      "ts": 1785639155791
     },
     "single_71": {
       "done": true,
       "ok": true,
-      "ts": 1785638338864
+      "ts": 1785639073595
     },
     "single_72": {
       "done": true,
       "ok": true,
-      "ts": 1785638477789
+      "ts": 1785639097463
     },
     "single_73": {
       "done": true,
       "ok": true,
-      "ts": 1785638622153
+      "ts": 1785639041732
     },
     "single_74": {
       "done": true,
       "ok": true,
-      "ts": 1785296639207
+      "ts": 1785639035453
     },
     "single_75": {
       "done": true,
@@ -388,7 +388,7 @@
     "single_76": {
       "done": true,
       "ok": true,
-      "ts": 1785465917650
+      "ts": 1785639106489
     },
     "single_77": {
       "done": true,
@@ -398,7 +398,7 @@
     "single_78": {
       "done": true,
       "ok": true,
-      "ts": 1785296992262
+      "ts": 1785639087316
     },
     "single_79": {
       "done": true,
@@ -408,52 +408,52 @@
     "single_80": {
       "done": true,
       "ok": true,
-      "ts": 1785496887388
+      "ts": 1785639218035
     },
     "single_81": {
       "done": true,
       "ok": true,
-      "ts": 1785638532854
+      "ts": 1785639163639
     },
     "single_82": {
       "done": true,
       "ok": true,
-      "ts": 1785296985392
+      "ts": 1785639166959
     },
     "single_83": {
       "done": true,
       "ok": true,
-      "ts": 1785496759456
+      "ts": 1785639101901
     },
     "single_84": {
       "done": true,
       "ok": true,
-      "ts": 1785638486874
+      "ts": 1785639013687
     },
     "single_85": {
       "done": true,
       "ok": true,
-      "ts": 1785638509178
+      "ts": 1785639199879
     },
     "single_86": {
       "done": true,
       "ok": true,
-      "ts": 1785496786812
+      "ts": 1785639143635
     },
     "single_87": {
       "done": true,
-      "ok": true,
-      "ts": 1785496751559
+      "ok": false,
+      "ts": 1785639049798
     },
     "single_88": {
       "done": true,
-      "ok": false,
-      "ts": 1785638493262
+      "ok": true,
+      "ts": 1785639141639
     },
     "single_89": {
       "done": true,
       "ok": true,
-      "ts": 1785297003655
+      "ts": 1785639011951
     },
     "single_90": {
       "done": true,
@@ -468,17 +468,17 @@
     "single_92": {
       "done": true,
       "ok": true,
-      "ts": 1785465958975
+      "ts": 1785639161562
     },
     "single_93": {
       "done": true,
       "ok": true,
-      "ts": 1785638358230
+      "ts": 1785639213895
     },
     "single_94": {
       "done": true,
       "ok": true,
-      "ts": 1785638604471
+      "ts": 1785639082649
     },
     "single_95": {
       "done": true,
@@ -493,12 +493,12 @@
     "multi_0": {
       "done": true,
       "ok": true,
-      "ts": 1785297059097
+      "ts": 1785639303674
     },
     "multi_1": {
       "done": true,
       "ok": true,
-      "ts": 1785466130071
+      "ts": 1785639231227
     },
     "multi_2": {
       "done": true,
@@ -508,12 +508,12 @@
     "multi_3": {
       "done": true,
       "ok": true,
-      "ts": 1785297086886
+      "ts": 1785639329370
     },
     "multi_4": {
       "done": true,
       "ok": true,
-      "ts": 1785497043273
+      "ts": 1785639315968
     },
     "multi_5": {
       "done": true,
@@ -523,7 +523,7 @@
     "multi_6": {
       "done": true,
       "ok": true,
-      "ts": 1785297104727
+      "ts": 1785639309107
     },
     "multi_7": {
       "done": true,
@@ -563,12 +563,12 @@
     "multi_14": {
       "done": true,
       "ok": true,
-      "ts": 1785466216335
+      "ts": 1785639246776
     },
     "multi_15": {
       "done": true,
-      "ok": true,
-      "ts": 1785298176576
+      "ok": false,
+      "ts": 1785639257017
     },
     "multi_16": {
       "done": true,
@@ -608,7 +608,7 @@
     "multi_23": {
       "done": true,
       "ok": true,
-      "ts": 1785298131877
+      "ts": 1785639397162
     },
     "multi_24": {
       "done": true,
@@ -618,12 +618,12 @@
     "multi_25": {
       "done": true,
       "ok": true,
-      "ts": 1785497077100
+      "ts": 1785639227521
     },
     "multi_26": {
       "done": true,
       "ok": true,
-      "ts": 1785638772080
+      "ts": 1785639360012
     },
     "multi_27": {
       "done": true,
@@ -637,8 +637,8 @@
     },
     "multi_29": {
       "done": true,
-      "ok": true,
-      "ts": 1785297370253
+      "ok": false,
+      "ts": 1785639348801
     },
     "multi_30": {
       "done": true,
@@ -668,7 +668,7 @@
     "multi_35": {
       "done": true,
       "ok": true,
-      "ts": 1785497015174
+      "ts": 1785639373830
     },
     "multi_36": {
       "done": true,
@@ -687,8 +687,8 @@
     },
     "multi_39": {
       "done": true,
-      "ok": true,
-      "ts": 1785297521614
+      "ok": false,
+      "ts": 1785639338572
     },
     "multi_40": {
       "done": true,
@@ -738,7 +738,7 @@
     "multi_49": {
       "done": true,
       "ok": true,
-      "ts": 1785466169647
+      "ts": 1785639321387
     },
     "multi_50": {
       "done": true,
@@ -803,7 +803,7 @@
     "multi_62": {
       "done": true,
       "ok": true,
-      "ts": 1785638860921
+      "ts": 1785639326034
     },
     "multi_63": {
       "done": true,
@@ -818,7 +818,7 @@
     "multi_65": {
       "done": true,
       "ok": true,
-      "ts": 1785497106863
+      "ts": 1785639388669
     },
     "multi_66": {
       "done": true,
@@ -858,7 +858,7 @@
     "multi_73": {
       "done": true,
       "ok": true,
-      "ts": 1785638764074
+      "ts": 1785639222584
     },
     "multi_74": {
       "done": true,
@@ -893,7 +893,7 @@
     "multi_80": {
       "done": true,
       "ok": true,
-      "ts": 1785297880152
+      "ts": 1785639241735
     },
     "multi_81": {
       "done": true,
@@ -912,13 +912,13 @@
     },
     "multi_84": {
       "done": true,
-      "ok": true,
-      "ts": 1785298060990
+      "ok": false,
+      "ts": 1785639381680
     },
     "multi_85": {
       "done": true,
       "ok": true,
-      "ts": 1785638758696
+      "ts": 1785639312694
     },
     "multi_86": {
       "done": true,
@@ -933,7 +933,7 @@
     "judge_0": {
       "done": true,
       "ok": true,
-      "ts": 1785497119121
+      "ts": 1785639434189
     },
     "judge_1": {
       "done": true,
@@ -978,12 +978,12 @@
     "judge_9": {
       "done": true,
       "ok": true,
-      "ts": 1785466350803
+      "ts": 1785639406724
     },
     "judge_10": {
       "done": true,
       "ok": true,
-      "ts": 1785466325522
+      "ts": 1785639419375
     },
     "judge_11": {
       "done": true,
@@ -993,7 +993,7 @@
     "judge_12": {
       "done": true,
       "ok": true,
-      "ts": 1785638894079
+      "ts": 1785639401343
     },
     "judge_13": {
       "done": true,
@@ -1018,7 +1018,7 @@
     "judge_17": {
       "done": true,
       "ok": true,
-      "ts": 1785466355174
+      "ts": 1785639431325
     },
     "judge_18": {
       "done": true,
@@ -1028,7 +1028,7 @@
     "judge_19": {
       "done": true,
       "ok": true,
-      "ts": 1785638911353
+      "ts": 1785639423670
     },
     "judge_20": {
       "done": true,
@@ -1048,12 +1048,12 @@
     "judge_23": {
       "done": true,
       "ok": true,
-      "ts": 1785497125540
+      "ts": 1785639411766
     },
     "judge_24": {
       "done": true,
       "ok": true,
-      "ts": 1785638899966
+      "ts": 1785639424905
     },
     "judge_25": {
       "done": true,
@@ -1073,7 +1073,7 @@
     "judge_28": {
       "done": true,
       "ok": true,
-      "ts": 1785497146709
+      "ts": 1785639403069
     },
     "judge_29": {
       "done": true,
@@ -1088,7 +1088,7 @@
     "judge_31": {
       "done": true,
       "ok": true,
-      "ts": 1785466337452
+      "ts": 1785639404443
     },
     "judge_32": {
       "done": true,
@@ -1108,7 +1108,7 @@
     "judge_35": {
       "done": true,
       "ok": true,
-      "ts": 1785298466556
+      "ts": 1785639430006
     },
     "judge_36": {
       "done": true,
@@ -1123,7 +1123,7 @@
     "judge_38": {
       "done": true,
       "ok": true,
-      "ts": 1785638895743
+      "ts": 1785639399746
     },
     "judge_39": {
       "done": true,
@@ -1138,12 +1138,12 @@
     "judge_41": {
       "done": true,
       "ok": true,
-      "ts": 1785638903435
+      "ts": 1785639410208
     },
     "judge_42": {
       "done": true,
       "ok": true,
-      "ts": 1785298479758
+      "ts": 1785639409034
     },
     "judge_43": {
       "done": true,
@@ -1173,7 +1173,7 @@
     "judge_48": {
       "done": true,
       "ok": true,
-      "ts": 1785638912845
+      "ts": 1785639426176
     },
     "judge_49": {
       "done": true,
@@ -1198,22 +1198,22 @@
     "judge_53": {
       "done": true,
       "ok": true,
-      "ts": 1785497145268
+      "ts": 1785639422222
     },
     "judge_54": {
       "done": true,
       "ok": true,
-      "ts": 1785638919159
+      "ts": 1785639428316
     },
     "judge_55": {
       "done": true,
       "ok": true,
-      "ts": 1785298558419
+      "ts": 1785639415630
     },
     "judge_56": {
       "done": true,
       "ok": true,
-      "ts": 1785638907849
+      "ts": 1785639413589
     },
     "judge_57": {
       "done": true,
@@ -1238,7 +1238,7 @@
     "judge_61": {
       "done": true,
       "ok": true,
-      "ts": 1785638888784
+      "ts": 1785639432632
     }
   }
 }
