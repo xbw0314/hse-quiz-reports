@@ -1,0 +1,409 @@
+{
+  "user": "许博文",
+  "totalDone": 80,
+  "totalCorrect": 78,
+  "accuracy": "98%",
+  "lastActive": "2026-08-03T00:00:34.494Z",
+  "records": {
+    "single_50": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714749949
+    },
+    "single_81": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714753525
+    },
+    "single_69": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714764814
+    },
+    "single_75": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714769527
+    },
+    "single_94": {
+      "done": true,
+      "ok": false,
+      "ts": 1785714773301
+    },
+    "single_15": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714779565
+    },
+    "single_61": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714784125
+    },
+    "single_66": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714799678
+    },
+    "single_40": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714804237
+    },
+    "single_77": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714808181
+    },
+    "single_0": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714810093
+    },
+    "single_31": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714813006
+    },
+    "single_17": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714817173
+    },
+    "single_93": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714819365
+    },
+    "single_49": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714822533
+    },
+    "single_6": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714824405
+    },
+    "single_11": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714829085
+    },
+    "single_55": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714831469
+    },
+    "single_53": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714833717
+    },
+    "single_3": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714838067
+    },
+    "single_67": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714843125
+    },
+    "single_29": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714846167
+    },
+    "single_72": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714849421
+    },
+    "single_13": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714853429
+    },
+    "single_48": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714855782
+    },
+    "single_86": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714859206
+    },
+    "single_21": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714862853
+    },
+    "single_33": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714867805
+    },
+    "single_45": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714870637
+    },
+    "single_12": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714875719
+    },
+    "single_60": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714881205
+    },
+    "single_76": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714886037
+    },
+    "single_35": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714890173
+    },
+    "single_1": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714894757
+    },
+    "single_90": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714897909
+    },
+    "single_5": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714902581
+    },
+    "single_89": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714906384
+    },
+    "single_23": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714909469
+    },
+    "single_42": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714912077
+    },
+    "single_20": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714915149
+    },
+    "multi_16": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714919941
+    },
+    "multi_27": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714935038
+    },
+    "multi_51": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714942214
+    },
+    "multi_12": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714945429
+    },
+    "multi_65": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714951813
+    },
+    "multi_0": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714955165
+    },
+    "multi_32": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714967639
+    },
+    "multi_39": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714974701
+    },
+    "multi_47": {
+      "done": true,
+      "ok": true,
+      "ts": 1785714987533
+    },
+    "multi_58": {
+      "done": true,
+      "ok": false,
+      "ts": 1785715053077
+    },
+    "multi_33": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715082061
+    },
+    "multi_45": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715086221
+    },
+    "multi_4": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715089679
+    },
+    "multi_49": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715096638
+    },
+    "multi_11": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715101359
+    },
+    "multi_48": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715104037
+    },
+    "multi_25": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715135742
+    },
+    "multi_35": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715145486
+    },
+    "multi_83": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715149518
+    },
+    "multi_71": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715154878
+    },
+    "judge_11": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715158430
+    },
+    "judge_19": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715161621
+    },
+    "judge_5": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715164973
+    },
+    "judge_4": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715166950
+    },
+    "judge_30": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715170126
+    },
+    "judge_56": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715173213
+    },
+    "judge_38": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715175389
+    },
+    "judge_49": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715177823
+    },
+    "judge_16": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715179869
+    },
+    "judge_8": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715183277
+    },
+    "judge_26": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715186582
+    },
+    "judge_15": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715189733
+    },
+    "judge_51": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715194245
+    },
+    "judge_57": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715200533
+    },
+    "judge_21": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715202229
+    },
+    "judge_44": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715204789
+    },
+    "judge_43": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715208381
+    },
+    "judge_29": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715210437
+    },
+    "judge_36": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715212461
+    },
+    "judge_6": {
+      "done": true,
+      "ok": true,
+      "ts": 1785715214533
+    }
+  }
+}
